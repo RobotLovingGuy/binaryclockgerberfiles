@@ -1,0 +1,8 @@
+Download the BinaryRTCClock12hr, BinaryRTCClock24hr, and start files to your pico then rename start to main.py
+when the clock starts it will flash to show you that all the lights work, then it will ask what mode do you 
+want to start it in 12 for BinaryRTCClock12hr.py and 24 for BinaryRTCClock24hr.py
+
+5-3-2021 BinaryRTCClock added
+	gerber files added
+
+23-3-2021 BinaryRTCClock12hr, BinaryRTCClock24hr, and start added
